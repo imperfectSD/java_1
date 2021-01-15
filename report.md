@@ -1,4 +1,4 @@
-#Отчёт о тестировании KeyValidator#
+# Отчёт о тестировании KeyValidator #
 
 **Краткое описание**
 
@@ -8,14 +8,13 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-<ссылка на описание дефекта>
-<ссылка на описание дефекта>
-<ссылка на описание дефекта>
+1. [При отправке валидного ключа вывод приложения выдаёт FAIL](https://github.com/imperfectSD/java_1/issues/1)
+2. [При отправке невалидного ключа вывод приложения выдаёт ОК](https://github.com/imperfectSD/java_1/issues/2)
 
 **В качестве тестовых данных использовались данные:**
 
-* [Инструкция по установке OpenJDK11] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
-* [Руководство использования KeyValidator] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+1. [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+2. [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 **Тестирование производилось в следующем окружении:**
 
